@@ -1,0 +1,8 @@
+{
+    "home": {
+    "title": "翻訳アプリ",
+    "description": "これは、Node.jsi18nとExpress.jsのローカリゼーションを使用して構築された単純な翻訳アプリケーションです。",
+    "buttonText": "更新ボタン",
+    "buttonHTML": "<button onClick='window.location.reload();'>$t(buttonText)</button>"
+    }
+}

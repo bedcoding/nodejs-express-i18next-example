@@ -1,0 +1,8 @@
+{
+    "home": {
+     "title": "번역 앱",
+     "description": "이것은 Node.js i18n 및 Express.js 현지화를 사용하여 빌드 된 간단한 번역 애플리케이션입니다.",
+     "buttonText": "새로 고침 버튼",
+     "buttonHTML": "<button onClick='window.location.reload();'>$t(buttonText)</button>"
+     }
+}

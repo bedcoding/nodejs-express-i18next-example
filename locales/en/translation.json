@@ -1,0 +1,8 @@
+{
+    "home": {
+    "title": "Translation App",
+    "description": "This is a simple translating application which is built using Node.js i18n and Express.js localization",
+    "buttonText": "Refresh button",
+    "buttonHTML": "<button onClick='window.location.reload();'>$t(buttonText)</button>"
+    }
+}
